@@ -1,0 +1,33 @@
+_repo: Our-Old-Home--A-Series-of-English-Sketches_8090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864 -- Homes and haunts -- England'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- !lcc 'DA'
+- !lcsh 'Americans -- England -- History -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Consular experiences -- Leamington Spa -- About Warwick -- Recollections
+  of a gifted woman -- Lichfield and Uttoxeter -- Pilgrimage to old Boston -- Near
+  Oxford -- Some of the haunts of Burns -- A London suburb -- Up the Thames -- Outside
+  glimpses of English poverty -- Civic banquets.
+title: 'Our Old Home: A Series of English Sketches'
+url: http://www.gutenberg.org/ebooks/8090
